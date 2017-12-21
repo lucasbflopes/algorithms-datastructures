@@ -10,4 +10,4 @@
 
 1. [Linked List](https://en.wikipedia.org/wiki/Linked_list);
 2. [Disjoint Set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure);
-3. [Weighted/Unweighted graph](https://en.wikipedia.org/wiki/Graph_\(discrete_mathematics\)).
+3. [Weighted/Unweighted Graph](https://en.wikipedia.org/wiki/Graph_\(discrete_mathematics\)).
