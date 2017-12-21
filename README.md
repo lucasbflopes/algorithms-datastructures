@@ -11,3 +11,5 @@
 1. [Linked List](https://en.wikipedia.org/wiki/Linked_list);
 2. [Disjoint Set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure);
 3. [Weighted/Unweighted Graph](https://en.wikipedia.org/wiki/Graph_\(discrete_mathematics\)).
+4. [Max Heap](https://en.wikipedia.org/wiki/Min-max_heap);
+5. [Priority Queue](https://en.wikipedia.org/wiki/Priority_queue).
