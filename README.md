@@ -7,7 +7,8 @@
 5. [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm);
 6. [Quick Sort](https://en.wikipedia.org/wiki/Quicksort);
 7. [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort);
-8. [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort).
+8. [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort);
+9. [Merge Sort](https://pt.wikipedia.org/wiki/Merge_sort).
 
 ## Data Structures
 
